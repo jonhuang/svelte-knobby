@@ -1,6 +1,6 @@
 {
 	"name": "svelte-knobby-jonhuang",
-	"version": "0.3.5",
+	"version": "0.3.6",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
@@ -23,7 +23,7 @@
 		"typescript": "^4.3.5"
 	},
 	"peerDependencies": {
-		"svelte": "^3.34.0"
+		"svelte": "^4.0.0"
 	},
 	"license": "MIT",
 	"type": "module",
